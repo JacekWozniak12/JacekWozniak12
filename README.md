@@ -5,5 +5,5 @@ I'm interested in writing game mechanics both in theory as in practice. I'm look
 - C# 
 - JavaScript
 
-#### Working on
+#### Current projects
 - [Paintings Tanks](https://github.com/JacekWozniak12/painting-tanks/) minigame
