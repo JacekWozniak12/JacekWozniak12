@@ -4,7 +4,6 @@ I'm interested in writing game mechanics both in theory as in practice. I'm look
 ### Languages
 - C# 
 - JavaScript
-  - TypeScript
 
 ### Current projects
 #### Paintings Tanks
