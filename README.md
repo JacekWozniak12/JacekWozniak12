@@ -1,11 +1,15 @@
 ## Hi there 👋
 I'm interested in writing game mechanics both in theory as in practice. I'm looking for work. 
 
-### Languages
+## Languages
 - C# 
 - JavaScript
 
-### Current projects
+## Projects
+### Work In Progress
+#### Unity User Stories Tool
+Tool that lets create you a story and logically categorize it within type of issue that is providen by user.
+- [Code](https://github.com/JacekWozniak12/unity-user-stories-tool)
 #### Paintings Tanks
 Simple game inspired by *Battle Painters* by [SaitoGames](http://www.saitogames.com/battlepainters/)
 - [Play](https://jacekwozniak12.github.io/painting-tanks/)
@@ -15,15 +19,17 @@ App for chord generation with custom syntax
 - [App](https://jacekwozniak12.github.io/chord.pin/)
 - [Code](https://github.com/JacekWozniak12/chord.pin/)
 
-### Code Snippets
-#### Unity
+## Code Snippets
+### Unity / C#
 - [Find all assets of Type using Asset Database](https://gist.github.com/JacekWozniak12/3022388cd9dcbe35c83e69adefb3a555)
+- [Loop between min and max](https://gist.github.com/JacekWozniak12/41778af2b34229aca1eb6255ebbbbf83)
 
-### Other Tutorials
+## Other Stuff
+### Tutorials
 #### Blender
 - [Importing BrickLink Stud.io models to Blender](https://github.com/JacekWozniak12/tutorials/blob/eng/ldraw-into-blender.md)
 
-### WSEI LABS
+### WSEI Labs
 #### C# Mobile Programming Lab
 I had to create mobile app parts from instructions given by University Profesor, using C#, WPF and Xamarin.
 - [Code](https://github.com/JacekWozniak12/wsei-xamarin)
