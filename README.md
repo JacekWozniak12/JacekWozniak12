@@ -25,9 +25,7 @@ App for chord generation with custom syntax
 
 ### WSEI LABS
 #### C# Mobile Programming Lab
-I had to create mobile app parts from instructions given by University Profesor.
-[Code](https://github.com/JacekWozniak12/wsei-xamarin)
-- C#
-- WPF
-- Android Emulator
+I had to create mobile app parts from instructions given by University Profesor, using C#, WPF and Xamarin.
+- [Code](https://github.com/JacekWozniak12/wsei-xamarin)
+
 
