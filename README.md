@@ -15,8 +15,15 @@ App for chord generation with custom syntax
 - [App](https://jacekwozniak12.github.io/chord.pin/)
 - [Code](https://github.com/JacekWozniak12/chord.pin/)
 
-### WSEI LABS
+### Code Snippets
+#### Unity
+- [Find all assets of Type using Asset Database](https://gist.github.com/JacekWozniak12/3022388cd9dcbe35c83e69adefb3a555)
 
+### Other Tutorials
+#### Blender
+- [Importing BrickLink Stud.io models to Blender](https://github.com/JacekWozniak12/tutorials/blob/eng/ldraw-into-blender.md)
+
+### WSEI LABS
 #### C# Mobile Programming Lab
 I had to create mobile app parts from instructions given by University Profesor.
 [Code](https://github.com/JacekWozniak12/wsei-xamarin)
@@ -24,6 +31,3 @@ I had to create mobile app parts from instructions given by University Profesor.
 - WPF
 - Android Emulator
 
-### Code Snippets
-#### Unity
-- (Find all assets of Type using Asset Database)[https://gist.github.com/JacekWozniak12/3022388cd9dcbe35c83e69adefb3a555]
