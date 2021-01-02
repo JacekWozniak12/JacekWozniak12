@@ -24,4 +24,6 @@ I had to create mobile app parts from instructions given by University Profesor.
 - WPF
 - Android Emulator
 
- 
+### Code Snippets
+#### Unity
+- (Find all assets of Type using Asset Database)[https://gist.github.com/JacekWozniak12/3022388cd9dcbe35c83e69adefb3a555]
