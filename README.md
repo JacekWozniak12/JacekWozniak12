@@ -7,8 +7,8 @@ I'm interested in writing game mechanics both in theory as in practice. I'm look
 
 ## Projects
 ### Work In Progress
-#### Unity Game Framework
-Simple framework that suggests directory structure and coding interfaces
+#### Unity Game Library
+Simple library that suggests directory structure and coding interfaces
 - [Code](https://github.com/JacekWozniak12/unity-game-framework)
 #### Unity User Stories Tool
 Tool that lets create you a story and logically categorize it within type of issue that is providen by user
