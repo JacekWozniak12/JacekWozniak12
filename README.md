@@ -7,6 +7,9 @@ I'm interested in writing game mechanics both in theory as in practice. I'm look
 
 ## Projects
 ### Work In Progress
+#### Smash This Stronghold
+- [Play](https://jacekwozniak12.github.io/smash-this-stronghold)
+- [Code](https://github.com/JacekWozniak12/smash-this-stronghold)
 #### Unity Game Library
 Simple library that suggests directory structure and coding interfaces
 - [Code](https://github.com/JacekWozniak12/unity-game-framework)
