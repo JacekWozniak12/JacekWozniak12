@@ -8,6 +8,7 @@ I'm interested in writing game mechanics both in theory as in practice. I'm look
 ## Projects
 ### Work In Progress
 #### Smash This Stronghold
+Unity3d Physics Game.
 - [Play](https://jacekwozniak12.github.io/smash-this-stronghold)
 - [Code](https://github.com/JacekWozniak12/smash-this-stronghold)
 #### Unity Game Library
@@ -17,7 +18,7 @@ Simple library that suggests directory structure and coding interfaces
 Tool that lets create you a story and logically categorize it within type of issue that is providen by user
 - [Code](https://github.com/JacekWozniak12/unity-user-stories-tool)
 #### Paintings Tanks
-Simple game inspired by *Battle Painters* by [SaitoGames](http://www.saitogames.com/battlepainters/)
+Game inspired by *Battle Painters* by [SaitoGames](http://www.saitogames.com/battlepainters/)
 - [Play](https://jacekwozniak12.github.io/painting-tanks/)
 - [Code](https://github.com/JacekWozniak12/painting-tanks/)
 #### Chord.pin
