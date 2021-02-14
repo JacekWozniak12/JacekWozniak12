@@ -17,7 +17,7 @@ Unity3d Physics Game.
 - [Play](https://jacekwozniak12.github.io/smash-this-stronghold)
 - [Code](https://github.com/JacekWozniak12/smash-this-stronghold)
 
-### In Hold
+### On Hold
 #### Paintings Tanks
 Game inspired by *Battle Painters* by [SaitoGames](http://www.saitogames.com/battlepainters/)
 - [Play](https://jacekwozniak12.github.io/painting-tanks/)
