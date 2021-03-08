@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm interested in writing game mechanics both in theory as in practice. I'm looking for work. 
+I'm interested in writing game mechanics both in theory as in practice.
 
 ## Languages
 - C# 
