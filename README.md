@@ -7,10 +7,6 @@ I'm interested in writing game mechanics both in theory as in practice.
 
 ## Projects
 ### Work In Progress
-#### Shhh - Silence!
-Unity3d Physics / Audio Game.
-- [Play](https://jacekwozniak12.github.io/shhh-silence)
-- [Code](https://github.com/JacekWozniak12/shhh-silence)
 
 #### Smash This Stronghold
 Unity3d Physics Game.
@@ -27,6 +23,11 @@ Game inspired by *Battle Painters* by [SaitoGames](http://www.saitogames.com/bat
 App for chord generation with custom syntax
 - [App](https://jacekwozniak12.github.io/chord.pin/)
 - [Code](https://github.com/JacekWozniak12/chord.pin/)
+
+#### Shhh - Silence!
+Unity3d Physics / Audio Game.
+- [Play](https://jacekwozniak12.github.io/shhh-silence)
+- [Code](https://github.com/JacekWozniak12/shhh-silence)
 
 ### Finished
 #### Unity User Stories Tool
