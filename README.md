@@ -19,11 +19,6 @@ Game inspired by *Battle Painters* by [SaitoGames](http://www.saitogames.com/bat
 - [Play](https://jacekwozniak12.github.io/painting-tanks/)
 - [Code](https://github.com/JacekWozniak12/painting-tanks/)
 
-### Chord.pin
-App for chord generation with custom syntax
-- [App](https://jacekwozniak12.github.io/chord.pin/)
-- [Code](https://github.com/JacekWozniak12/chord.pin/)
-
 ### Shhh - Silence!
 Unity3d Physics / Audio Game.
 - [Play](https://jacekwozniak12.github.io/shhh-silence)
