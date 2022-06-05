@@ -4,9 +4,13 @@ C#, Unity and sometimes stumbling on web dev territory.
 Check my personal page [here](https://jacekwozniak12.github.io/posts.html) or my apps within repositories on my profile.
 
 ## Playable apps
+![app-example](https://github.com/JacekWozniak12/JacekWozniak12/blob/main/app-ex0.gif)
+
 [5 for 1](https://jacekwozniak12.github.io/webgl-builds/5for1/5for1.html)
 
 `Simple logical game meant for mobiles. WIP`
+
+![app-example](https://github.com/JacekWozniak12/JacekWozniak12/blob/main/app-ex1.gif)
 
 [Dish servant](https://jacekwozniak12.github.io/webgl-builds/extenject-unity-api/ext.html)
 
